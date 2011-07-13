@@ -1,3 +1,4 @@
+buildout.cfg
 .installed.cfg
 bin
 develop-eggs
