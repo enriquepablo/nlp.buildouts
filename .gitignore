@@ -13,3 +13,5 @@ src/nl/nl/clips
 *.pyo
 *.swp
 nl-build
+.mr.developer.cfg
+src
