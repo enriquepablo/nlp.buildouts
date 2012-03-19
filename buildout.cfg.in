@@ -1,4 +1,5 @@
 [buildout]
 extends =
     profiles/inl.cfg
-#    profiles/ircbot.cfg
+    profiles/ircbot.cfg
+    profiles/daemon.cfg
