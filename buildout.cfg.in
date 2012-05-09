@@ -2,4 +2,4 @@
 extends =
     profiles/inl.cfg
     profiles/ircbot.cfg
-    profiles/daemon.cfg
+#    profiles/daemon.cfg
